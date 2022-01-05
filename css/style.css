@@ -1,0 +1,32 @@
+.navbar-extra-css {
+    background-color: #FF7800;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+body {
+    background-color: #FFFCDC;
+}
+
+.main-heading {
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
+    color: #D47AE8;
+}
+
+hr {
+    border-top: 2px solid rgb(80, 62, 14);
+}
+
+.text-extra-css {
+    font-size: 18px;
+}
+
+.card {
+    background-color: rgb(255, 248, 241);
+}
+
+.alt-baslık {
+    color: #FF7800;
+    font-size: 35px;
+    font-family: 'Lobster', cursive;
+}
